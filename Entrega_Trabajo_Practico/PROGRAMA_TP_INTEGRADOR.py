@@ -147,8 +147,8 @@ def ordena_alumnos(lista, clave):
 
         tiempo_transcurrido = (tiempo_fin - tiempo_inicio) * 1000
 
-        print(f"Tiempo transcurrido: {tiempo_transcurrido:.3f} milisegundos")
-        # print(f"Lista ordenada: {lista_ordenada}")
+        # print(f"Tiempo transcurrido: {tiempo_transcurrido:.3f} milisegundos")
+        print(f"Lista ordenada: {lista_ordenada}")
         print("------------------------")
         print("FIN ORDENAMIENTO RAPIDO")
 
@@ -164,8 +164,8 @@ def ordena_alumnos(lista, clave):
 
         tiempo_transcurrido = (tiempo_fin - tiempo_inicio) * 1000
 
-        print(f"Tiempo transcurrido: {tiempo_transcurrido:.3f} milisegundos")
-        # print(f"Lista ordenada: {lista_ordenada}")
+        # print(f"Tiempo transcurrido: {tiempo_transcurrido:.3f} milisegundos")
+        print(f"Lista ordenada: {lista_ordenada}")
         print("------------------------")
         print("FIN ORDENAMIENTO BURBUJA")
 

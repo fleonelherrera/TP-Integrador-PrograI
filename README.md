@@ -17,4 +17,4 @@ Los algoritmos de búsqueda y ordenamiento son herramientas fundamentales en el 
 - Programa con el caso práctico hecho en Python.
 
 **Link del video**
-- 
+- https://youtu.be/DXSQOjPL--w
